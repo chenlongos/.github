@@ -1,6 +1,6 @@
 ## 辰龙操作系统（ChenlongOS）
 
-辰龙操作系统是一个基于清华大学ArceOS的安全操作系统发行版。
+辰龙操作系统是一个基于清华大学 [ArceOS](https://github.com/rcore-os/arceos) 的安全操作系统发行版。
 
 ### 内核
 该操作系统使用了清华大学开源操作系统 [ArceOS](https://github.com/rcore-os/arceos) 作为内核。
