@@ -35,6 +35,9 @@
 * 飞腾派（Phytium Pi）系列：
    - 主芯片型号： 飞腾4核处理器，包含2个FTC664核和2个FTC310核，兼容64 位ARMV8 指令集
    - 飞腾派是首款基于飞腾定制芯片的国产化开源硬件产品，采用飞腾自主设计的定制款嵌入式 CPU。
+   - 飞腾派的基本驱动支持请访问此仓库：https://github.com/chenlongos/appd.git
+   - 飞腾派的USB、DMA驱动支持请访问此仓库：https://github.com/chenlongos/arceos-driver.git
+   - 飞腾派驱动开发指导书：https://github.com/chenlongos/Phytium-Pi-Driver.git
 
 #### RISC-V架构
 * 华山派（HuaShan）：
@@ -64,5 +67,3 @@
 辰龙社区当前主要业务是适配迁移和技术服务：帮助企业在具体项目中移植适配 ArceOS 操作系统，并提供员工培训、技术支持和咨询服务。
 * 通过技术培训，辰龙帮助用户了解和掌握辰龙操作系统的特性和使用方法。
 * 同时，辰龙还提供适配迁移服务，帮助用户将其应用从其他操作系统迁移到辰龙操作系统上，
-
-欢迎访问我们的 GitHub 页面 <https://github.com/ChenLongOS> 获取更多信息和源代码。
