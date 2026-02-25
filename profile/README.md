@@ -7,11 +7,8 @@
 ## 相关资源
 以下是核心资源汇总，助力快速熟悉项目：
 
-- **项目官网**：https://www.chenlongos.cn/
+- **项目官网**：https://www.chenlongos.com/
+- **文档中心**：https://docs.chenlongos.cn/#
+- **辰龙AI教育机器人**: https://chenlongos.com/robot-book/
 
-* **文档中心**：https://docs.chenlongos.cn/#
-* **源码仓库**：
-  - 飞腾派驱动支持：https://github.com/chenlongos/appd.git
-  - 飞腾派 USB/DMA 驱动：https://github.com/chenlongos/arceos-driver.git
-  - 飞腾派驱动开发指导：https://github.com/chenlongos/Phytium-Pi-Driver.git
-* **问题反馈**：通过各仓库 Issues 提交反馈
+- **问题反馈**：通过各仓库 Issues 提交反馈
